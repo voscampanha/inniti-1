@@ -3,40 +3,52 @@ languageCode = "en-us"
 theme = "infinity-hugo"
 themesDir = "themes"
 title = "Inniti Software"
+
 [params.about]
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ulla-mco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, aspernatur."
 enable = true
 heading = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam ipsa recusandae consequatur veniam, reiciendis odit quia eaque vel eius a."
+
 [[params.about.sliderItem]]
 image = "images/about/1.jpg"
+
 [[params.about.sliderItem]]
 image = "images/about/2.jpg"
+
 [[params.about.sliderItem]]
 image = "images/about/3.jpg"
+        
+[[params.about.sliderItem]]
+image   = "images/about/2.jpg"
+
 [params.contact]
 enable = true
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex"
 title = "Get In Touch"
+
 [params.cta]
 bg = "images/call-to-action.jpg"
 enable = true
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
 title = "Subscribe to our mailing list"
+
 [params.hero]
 bg = "images/header-bg.jpg"
-btnText = "Descubra"
+btnText = "Discover"
 countdownDay = 31
 countdownMonth = "08"
 countdownYear = 2019
 enable = true
-subtitle = "Foco em qualidade sem desperdício."
+subtitle = "Focus on quality without waste."
 title = "INNITI SOFTWARE"
+
 [params.navigation]
 about = "About"
 contact = "Contact"
 home = "Home"
 logo = "images/logo.png"
 service = "Services"
+
 [params.service]
 enable = true
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et"
@@ -58,26 +70,6 @@ icon = "tf-anchor2"
 title = "Tons of Feature"
 [[params.service.serviceItem]]
 delay = "0.6s"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-icon = "tf-globe"
-title = "Fully SEO Optimized"
-[[params.service.serviceItem]]
-delay = "0.8s"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-icon = "tf-strategy"
-title = "Fully Responsive"
-[[params.service.serviceItem]]
-delay = "1s"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-icon = "tf-circle-compass"
-title = "Speed Optimized"
-[[params.service.serviceItem]]
-delay = "1.2s"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-icon = "tf-anchor2"
-title = "Tons of Feature"
-[[params.service.serviceItem]]
-delay = "1.5s"
 description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 icon = "tf-globe"
 title = "Fully SEO Optimized"
