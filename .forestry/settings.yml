@@ -8,7 +8,7 @@ sections:
   path: themes/infinity-hugo/layouts
   label: Pages
   create: all
-  match: "*"
+  match: "**/*"
 - type: document
   path: config.toml
   label: Content
