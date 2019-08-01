@@ -30,7 +30,7 @@ btnText = "Descubra"
 countdownDay = 31
 countdownMonth = "08"
 countdownYear = 2019
-enable = false
+enable = true
 subtitle = "Foco em qualidade sem desperdício."
 title = "INNITI SOFTWARE"
 [params.navigation]
