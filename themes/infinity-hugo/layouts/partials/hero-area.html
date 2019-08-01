@@ -1,5 +1,3 @@
-{
-}
 {{ if .Site.Params.hero.enable }}
     {{"<!-- Hero Area Section -->" | safeHTML}}
     <section class="hero-area" style='background-image: url("{{ with .Site.Params.hero.bg }} {{ . }}{{ end }}");'>
