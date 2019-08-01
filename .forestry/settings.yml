@@ -10,7 +10,7 @@ sections:
   create: all
   match: "*"
 - type: document
-  path: ''
+  path: config.toml
   label: Content
 upload_dir: static/images
 public_path: "/uploads"
