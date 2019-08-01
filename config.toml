@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "infinity-hugo"
 themesDir = "themes"
-title = "Infinity Comming Soon Template By Themefisher"
+title = "Inniti Software"
 [params.about]
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ulla-mco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, aspernatur."
 enable = true
@@ -30,7 +30,7 @@ btnText = "Descubra"
 countdownDay = 31
 countdownMonth = "08"
 countdownYear = 2019
-enable = true
+enable = false
 subtitle = "Foco em qualidade sem desperdício."
 title = "INNITI SOFTWARE"
 [params.navigation]
