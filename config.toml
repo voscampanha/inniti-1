@@ -13,8 +13,6 @@ image = "images/about/1.jpg"
 image = "images/about/2.jpg"
 [[params.about.sliderItem]]
 image = "images/about/3.jpg"
-[[params.about.sliderItem]]
-image = "images/about/2.jpg"
 [params.contact]
 enable = true
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex"
