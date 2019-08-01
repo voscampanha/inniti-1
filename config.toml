@@ -33,7 +33,7 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiu
 title = "Subscribe to our mailing list"
 
 [params.hero]
-bg = "images/header-bg.jpg"
+bg = "images/header-bg.webp"
 btnText = "Discover"
 countdownDay = 31
 countdownMonth = "08"
