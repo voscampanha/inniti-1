@@ -4,14 +4,14 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: "."
-  label: Content
 - type: directory
   path: themes/infinity-hugo/layouts
   label: Pages
   create: all
   match: "*"
+- type: document
+  path: ''
+  label: Content
 upload_dir: static/images
 public_path: "/uploads"
 front_matter_path: ''
