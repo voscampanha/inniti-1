@@ -17,7 +17,7 @@ image = "images/about/3.jpg"
 image = "images/about/2.jpg"
 [params.contact]
 enable = true
-subtitle = "Need a solution and believe we can help you? Contact us and let's have a coffee (:"
+subtitle = "Need a solution and believe we can help you? Contact us and let's have a coffee!"
 title = "Get In Touch"
 [params.cta]
 bg = "images/call-to-action.jpg"
@@ -46,7 +46,7 @@ title = "Find Better Solutions Build Better Products"
 [[params.service.serviceItem]]
 delay = "0s"
 description = "It is your content on the internet through hot sites, blogs and pages to reach your audience."
-icon = "tf-globe"
+icon = "tf-ion-earth"
 title = "Website"
 [[params.service.serviceItem]]
 delay = "0.2s"

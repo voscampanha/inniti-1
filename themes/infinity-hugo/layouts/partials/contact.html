@@ -3,19 +3,38 @@
     <section id="contact" class="call-to-action" style='background-image: url("{{ with .Site.Params.cta.bg }}{{.}}{{ end }}")' >
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="col-xs-6 col-sm-6 col-md-6">
                     <div class="block">
-                        <div class="heading wow fadeInUp">
+                        <div class="heading wow fadeInUp" style="text-align: left">
                             {{ with .Site.Params.contact.title }}
                             <h2>{{ . }}</h2>
                             {{ end }}
                             {{ with .Site.Params.contact.subtitle }}
                                 <p>{{ . }}</p>
                             {{ end }}
+                            <p>Send and email to innitisoft@gmail.com or fill this next form.</p>
                         </div>
                     </div>
+                    <div class="block">
+                        <div class="heading wow fadeInUp" style="text-align: left">
+                            <h2>Follow US</h2>
+                            <a href="https://www.facebook.com/innitisoft" target="_blank">
+                                <i class="tf-facebook"></i>
+                                facebook
+                            </a>
+                            <a href="https://www.twitter.com/" target="_blank">
+                                <i class="tf-twitter"></i>
+                                twitter
+                            </a>
+                            <a href="https://www.linkedin.com/" target="_blank">
+                                <i class="tf-linkedin"></i>
+                                linkedin
+                            </a>
+                        </div>
+                    </div>
+
                 </div>
-                <div class="col-xs-12 col-sm-12 col-md-6 offset-md-3">
+                <div class="col-xs-6 col-sm-6 col-md-6 offset-md">
                     <div class="form-group">
                         <form name="contact" method="POST" id="contact-form" data-netlify-recaptcha="true" data-netlify="true">
                             <div class="input-field">

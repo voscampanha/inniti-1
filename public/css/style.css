@@ -510,6 +510,15 @@ a:active {
   font-weight: bold;
 }
 
+.call-to-action a{
+  margin: 0px 0px 6px 0px;
+    display: block;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 20px;
+}
+
 .input-field .form-control {
   box-shadow: none;
   background: #f5f5f5;
