@@ -50,7 +50,7 @@ icon = "tf-strategy"
 title = "Website"
 [[params.service.serviceItem]]
 delay = "0.2s"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+description = "Receive, provide and process information quickly and smartly."
 icon = "tf-circle-compass"
 title = "Web System"
 [[params.service.serviceItem]]
