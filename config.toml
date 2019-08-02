@@ -21,7 +21,7 @@ subtitle = "Need a solution and believe we can help you? Contact us and let's ha
 title = "Get In Touch"
 [params.cta]
 bg = "images/call-to-action.jpg"
-enable = true
+enable = false
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
 title = "Subscribe to our mailing list"
 [params.hero]
