@@ -41,7 +41,7 @@ logo = "images/logo.png"
 service = "Services"
 [params.service]
 enable = true
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et"
+subtitle = "We are ready to develop a great solution to meet your needs."
 title = "Find Better Solutions Build Better Products"
 [[params.service.serviceItem]]
 delay = "0s"
