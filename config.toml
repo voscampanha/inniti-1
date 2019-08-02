@@ -4,7 +4,7 @@ theme = "infinity-hugo"
 themesDir = "themes"
 title = "Inniti Software"
 [params.about]
-description = "\nThe core of our company is composed of senior analysts with extensive experience in the IT market, that support a wide range of skills needed for the development of next generation systems.\n\nOur team is always concerned with providing quality solutions, listening and understanding the real needs of our customers, using agile methodologies such as lean software."
+description = "\nThe core of our company is composed of senior analysts with extensive experience in the IT market, that support a wide range of skills needed for the development of next generation systems.\nOur team is always concerned with providing quality solutions, listening and understanding the real needs of our customers, using lean software principles."
 enable = true
 heading = "Inniti software is a young and dynamic development company based on a team of experienced specialists."
 [[params.about.sliderItem]]
