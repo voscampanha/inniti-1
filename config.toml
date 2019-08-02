@@ -4,7 +4,7 @@ theme = "infinity-hugo"
 themesDir = "themes"
 title = "Inniti Software"
 [params.about]
-description = "\nThe core of our company is composed of senior analysts with extensive experience in the IT market, that support a wide range of skills needed for the development of next generation systems.\nOur team is always concerned with providing quality solutions, listening and understanding the real needs of our customers, using lean software principles such as: Eliminate Waste, Build Quality In and Create Knowledge."
+description = "The core of our company is composed of senior analysts with extensive experience in the IT market, that support a wide range of skills needed for the development of next generation systems.\nOur team is always concerned with providing quality solutions, listening and understanding the real needs of our customers, using lean software principles such as: Eliminate Waste, Build Quality In and Create Knowledge."
 enable = true
 heading = "Inniti software is a young and dynamic development company based on a team of experienced specialists."
 [[params.about.sliderItem]]
@@ -46,20 +46,20 @@ title = "Find Better Solutions Build Better Products"
 [[params.service.serviceItem]]
 delay = "0s"
 description = "It is your content on the internet through hot sites, blogs and pages to reach your audience."
-icon = "tf-strategy"
+icon = "tf-globe"
 title = "Website"
 [[params.service.serviceItem]]
 delay = "0.2s"
 description = "Receive, provide and process information quickly and smartly."
-icon = "tf-circle-compass"
+icon = "tf-gears"
 title = "Web System"
 [[params.service.serviceItem]]
 delay = "0.4s"
 description = "Your system wherever your customer is via mobile devices."
-icon = "tf-anchor2"
+icon = "tf-mobile"
 title = "Mobile App"
 [[params.service.serviceItem]]
 delay = "0.6s"
 description = " Integrate your system with other services and enjoy the best tools."
-icon = "tf-globe"
+icon = "tf-ion-cloud"
 title = "Backend Services"
