@@ -17,7 +17,7 @@ image = "images/about/3.jpg"
 image = "images/about/2.jpg"
 [params.contact]
 enable = true
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex"
+subtitle = "Need a solution and believe we can help you? Contact us and let's have a coffee (:"
 title = "Get In Touch"
 [params.cta]
 bg = "images/call-to-action.jpg"
