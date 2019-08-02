@@ -3,35 +3,27 @@ languageCode = "en-us"
 theme = "infinity-hugo"
 themesDir = "themes"
 title = "Inniti Software"
-
 [params.about]
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ulla-mco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, aspernatur."
+description = "\nThe core of our company is composed of senior analysts with extensive experience in the IT market, that support a wide range of skills needed for the development of next generation systems."
 enable = true
-heading = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam ipsa recusandae consequatur veniam, reiciendis odit quia eaque vel eius a."
-
+heading = "Inniti software is a young and dynamic development company based on a team of experienced specialists."
 [[params.about.sliderItem]]
 image = "images/about/1.jpg"
-
 [[params.about.sliderItem]]
 image = "images/about/2.jpg"
-
 [[params.about.sliderItem]]
 image = "images/about/3.jpg"
-        
 [[params.about.sliderItem]]
-image   = "images/about/2.jpg"
-
+image = "images/about/2.jpg"
 [params.contact]
 enable = true
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex"
 title = "Get In Touch"
-
 [params.cta]
 bg = "images/call-to-action.jpg"
 enable = true
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
 title = "Subscribe to our mailing list"
-
 [params.hero]
 bg = "images/header-bg.webp"
 btnText = "Discover"
@@ -41,14 +33,12 @@ countdownYear = 2019
 enable = true
 subtitle = "Focus on quality without waste."
 title = "INNITI SOFTWARE"
-
 [params.navigation]
 about = "About"
 contact = "Contact"
 home = "Home"
 logo = "images/logo.png"
 service = "Services"
-
 [params.service]
 enable = true
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et"
