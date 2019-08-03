@@ -8,11 +8,11 @@ description = "The core of our company is composed of senior analysts with exten
 enable = true
 heading = "Inniti software is a young and dynamic development company based on a team of experienced specialists."
 [[params.about.sliderItem]]
-image = "images/about/1.jpg"
+image = "images/about/1.webp"
 [[params.about.sliderItem]]
-image = "images/about/2.jpg"
+image = "images/about/2.webp"
 [[params.about.sliderItem]]
-image = "images/about/3.jpg"
+image = "images/about/3.webp"
 [params.contact]
 enable = true
 subtitle = "Need a solution and believe we can help you? Contact us and let's have a coffee!"
@@ -76,11 +76,11 @@ title = "Backend Services"
     enable = true
     heading = "Inniti Software é uma empresa de desenvolvimento jovem e dinâmica composta por um time de experientes especialistas."
     [[languages.pt-br.params.about.sliderItem]]
-    image = "images/about/1.jpg"
+    image = "images/about/1.webp"
     [[languages.pt-br.params.about.sliderItem]]
-    image = "images/about/2.jpg"
+    image = "images/about/2.webp"
     [[languages.pt-br.params.about.sliderItem]]
-    image = "images/about/3.jpg"
+    image = "images/about/3.webp"
     [languages.pt-br.params.contact]
     enable = true
     subtitle = "Precisa de um software? Entre em contato e vamos marcar uma conversa!"
