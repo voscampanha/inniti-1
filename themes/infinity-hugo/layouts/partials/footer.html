@@ -1,15 +1,20 @@
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="block">
-                    <p>Copyright &copy;
-                        <a href="http://www.Themefisher.com">Themefisher</a>| All right reserved.</p>
+{{ if .Site.Params.copyright.enable }}
+    {{"<!-- Copyright Section -->" | safeHTML}}
+    <section id="copyright">
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="block">
+                            <p>Copyright &copy;
+                                <a href="{{ .Site.BaseURL }}">Inniti software</a>| {{ .Site.Params.copyright.title  }}</p>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
-</footer>
+        </footer>
+    </section>
+{{ end }}
 
 
 {{"<!-- Js -->" | safeHTML}}

@@ -1,8 +1,10 @@
 <div class="container">
     <nav class="navbar navbar-fixed-top  navigation " id="top-nav">
+        
         <a class="navbar-brand float-none float-lg-left" href="#">
+            {{ $baseUrl := .Site.BaseURL }}
             {{ with .Site.Params.navigation.logo }}
-            <img src="{{ . }}" alt="logo">
+            <img src="{{ $baseUrl }}{{ . }}" alt="logo">
             {{ end }}
         </a>
         <button class="navbar-toggler hidden-lg-up float-lg-right" type="button" data-toggle="collapse" data-target="#navbarResponsive">

@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
+defaultContentLanguage = "en"
 theme = "infinity-hugo"
 themesDir = "themes"
 title = "Inniti Software"
@@ -13,12 +13,20 @@ image = "images/about/1.jpg"
 image = "images/about/2.jpg"
 [[params.about.sliderItem]]
 image = "images/about/3.jpg"
-[[params.about.sliderItem]]
-image = "images/about/2.jpg"
 [params.contact]
 enable = true
 subtitle = "Need a solution and believe we can help you? Contact us and let's have a coffee!"
 title = "Get In Touch"
+send = "Send me"
+sendSuccess = "Your Message was sent successfully"
+sendFail = "Your Message was not sent successfully"
+followUs = "Follow US"
+name= "Your Name"
+email= "Your Email Address"
+message = "Your Message"
+[params.copyright]
+enable = true
+title = "All right reserved."
 [params.cta]
 bg = "images/call-to-action.jpg"
 enable = false
@@ -27,9 +35,6 @@ title = "Subscribe to our mailing list"
 [params.hero]
 bg = "images/header-bg.webp"
 btnText = "Discover"
-countdownDay = 31
-countdownMonth = "08"
-countdownYear = 2019
 enable = true
 subtitle = "Focus on quality without waste."
 title = "INNITI SOFTWARE"
@@ -63,3 +68,65 @@ delay = "0.6s"
 description = " Integrate your system with other services and enjoy the best tools."
 icon = "tf-ion-cloud"
 title = "Backend Services"
+[languages]
+    [languages.en]
+    [languages.pt-br]
+    [languages.pt-br.params.about]
+    description = "Nossa empresa é composta por um time de analistas com extensiva experiência em desenvolvimento de software, preparada para construir tudo o que você precisa.\nA maoir preocupação do nosso time é escutar e entender nossos clientes para desenvolver soluções de qualidade que atenda as suas reais necessidades, usando princípios lean como: Eliminação de desperdício, Foco em Qualidade e Geração de Conhecimento."
+    enable = true
+    heading = "Inniti Software é uma empresa de desenvolvimento jovem e dinâmica composta por um time de experientes especialistas."
+    [[languages.pt-br.params.about.sliderItem]]
+    image = "images/about/1.jpg"
+    [[languages.pt-br.params.about.sliderItem]]
+    image = "images/about/2.jpg"
+    [[languages.pt-br.params.about.sliderItem]]
+    image = "images/about/3.jpg"
+    [languages.pt-br.params.contact]
+    enable = true
+    subtitle = "Precisa de um software? Entre em contato e vamos marcar uma conversa!"
+    title = "Entre em contato"
+    send = "Enviar"
+    sendSuccess = "Mensagem enviada, em alguns minutos iremos entrar em contato :)"
+    sendFail = "Sua mensagem não pode ser enviada"
+    followUs = "Nos siga"
+    name= "Seu Nome"
+    email= "Seu Email"
+    message = "Sua Mensagem"
+    [languages.pt-br.params.hero]
+    bg = "images/header-bg.webp"
+    enable = true
+    btnText = "Descubra"
+    subtitle = "Foco em qualidade sem desperdício."
+    [languages.pt-br.params.navigation]
+    about = "Sobre"
+    contact = "Contato"
+    home = "Principal"
+    service = "Serviços"
+    logo = "images/logo.png"
+    [languages.pt-br.params.service]
+    enable = true
+    subtitle = "Estamos prontos para atender suas necessidades com ótimas soluções."
+    title = "Encontre melhores soluções, Construa produtos melhores"
+    [[languages.pt-br.params.service.serviceItem]]
+    delay = "0s"
+    description = "O seu conteúdo na internet em sites, blogs, aplicativos para atingir todo o seu público."
+    title = "Website"
+    icon = "tf-ion-earth"
+    [[languages.pt-br.params.service.serviceItem]]
+    delay = "0.2s"
+    description = "Automatize seus processos de forma rápida e eficiente."
+    icon = "tf-gears"
+    title = "Sistemas Web"
+    [[languages.pt-br.params.service.serviceItem]]
+    delay = "0.4s"
+    description = "Sua marca onde os seus clientes estão."
+    icon = "tf-mobile"
+    title = "Aplicativos de celular"
+    [[languages.pt-br.params.service.serviceItem]]
+    delay = "0.6s"
+    description = "Integre diferentes sistemas de forma automatizada."
+    icon = "tf-ion-cloud"
+    title = "Integrações de sistemas"
+    [languages.pt-br.params.copyright]
+    enable = true
+    title = "Todos os direitos reservados."
