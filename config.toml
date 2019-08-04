@@ -72,9 +72,9 @@ title = "Backend Services"
     [languages.en]
     [languages.pt-br]
     [languages.pt-br.params.about]
-    description = "Nossa empresa é composta por um time de analistas com extensiva experiência em desenvolvimento de software, preparada para construir tudo o que você precisa.\nA maoir preocupação do nosso time é escutar e entender nossos clientes para desenvolver soluções de qualidade que atenda as suas reais necessidades, usando princípios lean como: Eliminação de desperdício, Foco em Qualidade e Geração de Conhecimento."
+    description = "Nossa empresa é composta por um time de analistas com extensiva experiência em desenvolvimento de software, preparada para construir tudo o que você precisa.\nA maior preocupação do nosso time é escutar e entender nossos clientes para desenvolver soluções de qualidade que atendam as suas reais necessidades, usando princípios lean como: Eliminação de desperdício, Foco em Qualidade e Geração de Conhecimento."
     enable = true
-    heading = "Inniti Software é uma empresa de desenvolvimento jovem e dinâmica composta por um time de experientes especialistas."
+    heading = "Inniti Software é uma empresa de desenvolvimento jovem e dinâmica composta por um time de especialistas experientes."
     [[languages.pt-br.params.about.sliderItem]]
     image = "images/about/1.webp"
     [[languages.pt-br.params.about.sliderItem]]
@@ -88,7 +88,7 @@ title = "Backend Services"
     send = "Enviar"
     sendSuccess = "Mensagem enviada, em alguns minutos iremos entrar em contato :)"
     sendFail = "Sua mensagem não pode ser enviada"
-    followUs = "Nos siga"
+    followUs = "Nossas Redes Sociais"
     name= "Seu Nome"
     email= "Seu Email"
     message = "Sua Mensagem"
